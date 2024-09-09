@@ -8,10 +8,12 @@
 - 📫 How to reach me **jamesfrancismercado02@gmail.com**
 
 <h3 align="left">Skills:</h3>
+<p align ="left">
 - Basic knowledge in Java OOP
 - Basics of Python Programming
 - Java GUI using Java Swing
 - C++ GUI using 
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
