@@ -9,10 +9,7 @@
 
 <h3 align="left">Skills:</h3>
 <p align ="left">
-- Basic knowledge in Java OOP
-- Basics of Python Programming
-- Java GUI using Java Swing
-- C++ GUI using 
+- Basic knowledge in Java OOP, Basics of Python Programming, Java GUI using Java Swing, and C++ GUI using CLR.NET Framework
 </p>
 
 <h3 align="left">Connect with me:</h3>
