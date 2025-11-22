@@ -45,6 +45,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=jamexuu&icon=2&color=3)](https://visitcount.itsvg.in)
 
+![Full Year Calendar](metrics.plugin.isocalendar.fullyear.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
