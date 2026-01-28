@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # 💫 About Me:
 📖 Bachelor of Science in Information Technology<br>🏫 Studying at Polytechnic University of the Philippines Sto. Tomas Campus<br>👩🏻‍💻 I am making some simple projects
@@ -47,4 +47,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-</div>
