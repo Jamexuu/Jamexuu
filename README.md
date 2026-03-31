@@ -6,7 +6,9 @@
 <div align="center">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jamexuu&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamexuu&label=Profile%20views&color=0e75b6&style=flat" alt="jamexuu" /> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamexuu&" alt="jamexuu" /></p>
 </div>
 
 ---
