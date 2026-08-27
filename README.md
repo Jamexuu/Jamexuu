@@ -8,7 +8,7 @@
 # 📊 GitHub Stats:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamexuu&label=Profile%20views&color=0e75b6&style=flat" alt="jamexuu" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamexuu&" alt="jamexuu" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jamexuu&theme=vue-dark" alt="GitHub Streak" /></a>
 </div>
 
 ---
