@@ -3,7 +3,7 @@
 
 # Yow! <img src="wave-icon.svg" width="26" height="26" style="vertical-align: middle;" />
 
-![Powered by Caffeine](powered-by-coffee.svg)
+<img src="powered-by-coffee.svg" width="495" alt="Powered by Caffeine" />
 
 # <img src="stats-icon.svg" width="24" height="24" style="vertical-align: middle;" /> GitHub Stats:
 
