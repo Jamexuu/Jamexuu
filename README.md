@@ -1,16 +1,12 @@
-# 💫 About Me:
-📖 Bachelor of Science in Information Technology<br>
-🏫 Studying at Polytechnic University of the Philippines Sto. Tomas Campus<br>
-👩🏻‍💻 I am making some university and personal projects<br>
 
 <div align="center">
 
-# 📊 GitHub Stats:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamexuu&label=Profile%20views&color=0e75b6&style=flat" alt="jamexuu" /> </p>
+# Yow! <img src="wave-icon.svg" width="26" height="26" style="vertical-align: middle;" />
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jamexuu&theme=vue-dark" alt="GitHub Streak" /></a>
+![Powered by Caffeine](powered-by-coffee.svg)
+
+# <img src="stats-icon.svg" width="24" height="24" style="vertical-align: middle;" /> GitHub Stats:
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jamexuu&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=F0F6FC&fire=F0F6FC&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681" alt="GitHub Streak" /></a>
 </div>
 
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

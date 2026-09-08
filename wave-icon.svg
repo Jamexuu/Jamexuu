@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <style>
+    .icon-stroke {
+      stroke: #24292f;
+    }
+    @media (prefers-color-scheme: dark) {
+      .icon-stroke {
+        stroke: #f0f6fc;
+      }
+    }
+    @keyframes wave-anim {
+      0% { transform: rotate(0deg); }
+      18% { transform: rotate(14deg); }
+      36% { transform: rotate(-8deg); }
+      54% { transform: rotate(14deg); }
+      72% { transform: rotate(-4deg); }
+      85% { transform: rotate(4deg); }
+      100% { transform: rotate(0deg); }
+    }
+    .wave-hand {
+      transform-origin: 75% 85%;
+      animation: wave-anim 2.5s infinite ease-in-out;
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .wave-hand {
+        animation: none;
+      }
+    }
+  </style>
+  <g class="icon-stroke" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Subtle wave motion lines -->
+    <path d="M 4.5 4 C 3 6.2 3 9.2 4.5 11.5" opacity="0.7" />
+    <path d="M 2 2.5 C 0.5 5.5 0.5 10 2 13" opacity="0.35" />
+
+    <!-- Waving hand with gentle animation -->
+    <g class="wave-hand">
+      <!-- Index Finger -->
+      <path d="M 8.5 13 V 6 A 1.5 1.5 0 0 1 11.5 6 V 11.5" />
+      <!-- Middle Finger -->
+      <path d="M 11.5 6 V 3.5 A 1.5 1.5 0 0 1 14.5 3.5 V 11.5" />
+      <!-- Ring Finger -->
+      <path d="M 14.5 6 V 5 A 1.5 1.5 0 0 1 17.5 5 V 11.5" />
+      <!-- Pinky Finger, Palm, Thumb, and Wrist Base -->
+      <path d="M 17.5 7.5 A 1.5 1.5 0 0 1 20.5 7.5 V 14.5 C 20.5 18 17.5 21 14 21 H 12 C 10.2 21 8.8 19.8 8 18.2 L 5.5 14 A 1.5 1.5 0 0 1 6.1 12 A 1.6 1.6 0 0 1 8.2 12.3 L 8.5 13" />
+    </g>
+  </g>
+</svg>
+

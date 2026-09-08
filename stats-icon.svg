@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <style>
+    .icon-fill { fill: #24292f; }
+    @media (prefers-color-scheme: dark) {
+      .icon-fill { fill: #f0f6fc; }
+    }
+  </style>
+  <!-- Sleek Minimalist GitHub Stats Chart Icon -->
+  <g class="icon-fill">
+    <!-- Bar 1 (Left) -->
+    <rect x="3" y="12" width="4" height="8" rx="1"/>
+    <!-- Bar 2 (Center - Tallest) -->
+    <rect x="10" y="5" width="4" height="15" rx="1"/>
+    <!-- Bar 3 (Right) -->
+    <rect x="17" y="9" width="4" height="11" rx="1"/>
+    <!-- Baseline -->
+    <rect x="1.5" y="21.5" width="21" height="1.5" rx="0.75"/>
+  </g>
+</svg>
+
